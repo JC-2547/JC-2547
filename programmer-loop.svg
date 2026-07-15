@@ -1,0 +1,42 @@
+/* พื้นหลังโทนมืด (Dark Theme) */
+  .bg { fill: #090d16; rx: 12px; stroke: #1e293b; stroke-width: 2px; }
+  
+  /* ฟอนต์และรูปแบบตัวอักษรหลัก */
+  .text-base {
+    font-family: 'Fira Code', monospace;
+    font-size: 42px;
+    font-weight: bold;
+    text-anchor: middle;
+    dominant-baseline: middle;
+  }
+  
+  /* เอฟเฟกต์สีสว่างแบบไฟนีออน (Neon Glow) */
+  .neon-cyan { fill: #00ffcc; filter: drop-shadow(0px 0px 10px rgba(0, 255, 204, 0.8)); }
+  .neon-purple { fill: #b829ea; filter: drop-shadow(0px 0px 10px rgba(184, 41, 234, 0.8)); }
+  .neon-yellow { fill: #f7df1e; filter: drop-shadow(0px 0px 10px rgba(247, 223, 30, 0.8)); }
+
+  /* ตั้งค่าให้คำเริ่มต้นถูกซ่อนไว้ก่อน */
+  .anim-eat, .anim-sleep, .anim-code { opacity: 0; }
+  
+  /* ควบคุมจังหวะการโผล่มาของแต่ละคำ (ห่างกันคำละ 2 วินาที) */
+  .anim-eat { animation: showText 6s infinite; }
+  .anim-sleep { animation: showText 6s infinite 2s; }
+  .anim-code { animation: showText 6s infinite 4s; }
+
+  /* แอนิเมชันตอนคำเด้งขึ้นมา */
+  @keyframes showText {
+    0%, 10% { opacity: 0; transform: translateY(15px) scale(0.95); }
+    15%, 30% { opacity: 1; transform: translateY(0) scale(1); }
+    33%, 100% { opacity: 0; transform: translateY(-15px) scale(1.05); }
+  }
+
+  /* แถบ Loading Bar ด้านล่าง */
+  .progress-bg { fill: #1e293b; rx: 4px; }
+  .progress-bar { fill: #00ffcc; rx: 4px; animation: loadBar 2s infinite linear; filter: drop-shadow(0px 0px 5px #00ffcc); }
+  
+  @keyframes loadBar {
+    0% { width: 0; opacity: 1; }
+    90% { width: 300px; opacity: 1; }
+    100% { width: 300px; opacity: 0; }
+  }
+</style>
