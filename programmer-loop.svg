@@ -19,8 +19,8 @@
       .anim-eat, .anim-sleep, .anim-code { opacity: 0; }
       
       .anim-eat { animation: showText 6s infinite; }
-      .anim-sleep { animation: showText 6s infinite 2s; }
-      .anim-code { animation: showText 6s infinite 4s; }
+      .anim-sleep { animation: showText 6s infinite 1s; }
+      .anim-code { animation: showText 6s infinite 2s; }
 
       @keyframes showText {
         0%, 10% { opacity: 0; transform: translateY(15px) scale(0.95); }
