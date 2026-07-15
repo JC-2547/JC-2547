@@ -103,7 +103,9 @@
 <br/>
 
 <!-- เรียกใช้งานไฟล์ SVG ที่เราสร้างขึ้นมาใหม่! -->
-<img src="./programmer-loop.svg" width="500" alt="EAT SLEEP CODE Animation" />
+<!--<img src="./programmer-loop.svg" width="500" alt="EAT SLEEP CODE Animation" />-->
+<!-- เปลี่ยน src เป็นลิงก์ Raw ที่ก๊อปปี้มา -->
+<img src="https://raw.githubusercontent.com/JC-2547/JC-2547/main/programmer-loop.svg" width="500" alt="EAT SLEEP CODE Animation" />
 
 <br/>
 <br/>
