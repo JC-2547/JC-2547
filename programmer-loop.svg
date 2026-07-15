@@ -29,7 +29,7 @@
       }
 
       .progress-bg { fill: #1e293b; }
-      .progress-bar { fill: #00ffcc; animation: loadBar 2s infinite linear; filter: drop-shadow(0px 0px 5px #00ffcc); }
+      .progress-bar { fill: #00ffcc; animation: loadBar 1s infinite linear; filter: drop-shadow(0px 0px 5px #00ffcc); }
       
       @keyframes loadBar {
         0% { width: 0; opacity: 1; }
