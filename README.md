@@ -18,8 +18,8 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <h3>❝ Clean code, real-world apps, full-stack projects, and continuous growth. ❞</h3>
-  <p>I am <b>JC</b>, a passionate Software Developer focusing on building highly optimized and scalable systems.</p>
+  <h3>❝ ........... ❞</h3>
+  <p>I am <b>JC</b></p>
 </div>
 
 ---
