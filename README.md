@@ -49,9 +49,9 @@
 
 | 🚀 Topic | 📌 Progress |
 |---|---|
-| Backend Architecture | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ |
-| System Design Fundamentals | 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ |
-| Polished Full-Stack Projects | 🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛ |
+| Network| 🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛ |
+| Advance Cyber Security | 🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛|
+| Prompt Engineering| 🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛|
 
 </div>
 
