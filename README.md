@@ -28,16 +28,41 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+  <h3>🌐 Frontend</h3>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+
+  <br/><br/>
+
+  <h3>💻 Backend & API</h3>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+
+  <br/><br/>
+
+  <h3>⚙️ DevOps & Architecture</h3>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="NGINX" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" />
+
+  <br/><br/>
+
+  <h3>🔌 IoT & Tools</h3>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" />
 
 </div>
 
@@ -86,11 +111,12 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/JC-2547">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=plastic&logo=github&logoColor=ffffff" />
-    
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=ffffff" />
+  <a href="https://github.com/JC-2547" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
